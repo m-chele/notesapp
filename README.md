@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # notesapp
 =======
 # React + Vite
